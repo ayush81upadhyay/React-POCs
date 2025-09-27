@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;AAKA","sources":["Components/Darklight.css"],"sourcesContent":[".dark {\n    background-color: Black;\n    color : white;\n}\n\n.white{\n    background-color: white;\n    color : black;\n}\n\n"],"names":[],"version":3,"file":"DarkLightTheme.aa436662.css.map","sourceRoot":"/__parcel_source_root/"}
